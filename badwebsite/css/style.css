@@ -6,7 +6,7 @@ body {
 }
 
 #container {
-    border: 10px red;
+    border: 10px solid red;
     width: 80%;
     margin: auto;
     padding: 30px;
