@@ -1,5 +1,5 @@
 body {
-    background-color: yellow;
+    background-color: yellow !important;
     font-family: 'Comic Sans MS', cursive;
     text-align: center;
     color: limegreen;
@@ -19,7 +19,7 @@ body {
     text-decoration: underline;
 }
 
-.content {
+.actual-things {
     font-style: italic;
     background-image: url('https://www.publicdomainpictures.net/pictures/320000/velka/digital-noise.jpg');
     padding: 20px;
