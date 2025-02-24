@@ -1,5 +1,5 @@
 body {
-    background-color: yellow !important;
+    background-color: blue !important;
     font-family: 'Comic Sans MS', cursive;
     text-align: center;
     color: limegreen;
@@ -21,7 +21,6 @@ body {
 
 .actual-things {
     font-style: italic;
-    
     padding: 20px;
 }
 
