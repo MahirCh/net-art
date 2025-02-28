@@ -1,0 +1,36 @@
+* {
+    margin:0;
+  }
+  
+  .container {
+    height:100vh;
+    width:100%;
+    background-color:yellow;
+  }
+  
+  .item {
+    float: left;
+    width:25%;
+    height:25vh;
+  }
+  
+  .item1 { background-color: #FF6347; }
+  .item2 { background-color: #4682B4; }
+  .item3 { background-color: #32CD32; }
+  .item4 { background-color: #FFD700; }
+  .item5 { background-color: #FF69B4; }
+  .item6 { background-color: #8A2BE2; }
+  .item7 { background-color: #DC143C; }
+  .item8 { background-color: #20B2AA; }
+  .item9 { background-color: #FF4500; }
+  .item10 { background-color: #6A5ACD; }
+  .item11 { background-color: #708090; }
+  .item12 { background-color: #B22222; }
+  .item13 { background-color: #2E8B57; }
+  .item14 { background-color: #DAA520; }
+  .item15 { background-color: #BA55D3; }
+  .item16 { background-color: #7FFF00; }
+  .item17 { background-color: #8B0000; }
+  .item18 { background-color: #4682B4; }
+  .item19 { background-color: #FF8C00; }
+  .item20 { background-color: #2F4F4F; }
