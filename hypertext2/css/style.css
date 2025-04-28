@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(165, 2, 2) !important;
+    font-family: 'Georgia';
+    text-align: left;
+    color: rgb(255, 255, 255);
+}
+
+h1 {
+
+    color: crimson;
+  text-shadow: 2px 2px 10px black;
+  font-size: 3em;
+}
+
+p {
+    
+  text-shadow: 2px 2px 10px black;
+  
+}
+
+.center-text {
+    text-align: center;
+  }
+a {
+    color: #5ec8ff;
+
+}
+
+a:hover {
+    color: white;
+  }
+
+ 
+  
+  #hoverImage a:hover {
+    background: url('https://i.imgur.com/QnPsUcY.gif') no-repeat center center; 
+    background-size: cover;
+    color: transparent; 
+  }
