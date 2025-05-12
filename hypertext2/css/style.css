@@ -4,11 +4,13 @@ body {
     text-align: left;
     color: rgb(255, 255, 255);
 }
+
 .container {
-  max-width: 60ch; 
+  max-width: 60ch;
   margin: 0 auto;
   padding: 1em;
 }
+
 
 h1 {
 
